@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> Pritam Biswas <role> Developer <twitter>
+    <name> Pritam Biswas <role> Developer <twitter> @twitter
 
 # THANKS
 
